@@ -1,3 +1,3 @@
-# SaaS-Creation
+# SaaS Creation Starter
 
-Projet SaaS complet avec Auth, Stripe, IA, GitHub, Dashboard multitenant.# SaaS-Creation Starter
+Projet de base pour créer un SaaS moderne.

@@ -1,1 +1,0 @@
-// Publicly viewable landing page

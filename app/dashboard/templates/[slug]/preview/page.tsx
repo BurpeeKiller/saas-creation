@@ -1,1 +1,0 @@
-// Landing preview generator
