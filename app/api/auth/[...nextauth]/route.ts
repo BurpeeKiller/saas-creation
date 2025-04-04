@@ -1,0 +1,1 @@
+// Auth.js setup route
